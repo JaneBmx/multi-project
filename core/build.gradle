@@ -1,0 +1,7 @@
+plugins {
+    id 'java-library'
+}
+
+dependencies {
+    compile files('../libs/utils-1.3.5.jar')
+}
